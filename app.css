@@ -1,0 +1,8 @@
+		li{/* element selector and it does not specify which li it will apply the changes to all li present in the html document*/
+			color: #CDC417;
+			font-size: 15px;
+			font-style:bold;
+		}
+		h1{
+			color:rgb(0,0,255);
+		}

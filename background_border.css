@@ -1,0 +1,22 @@
+div{
+	background: rgba(0,0,0,0.5);
+}
+
+body{
+	background: url(https://i.pinimg.com/originals/35/44/02/354402069a75e9335ca81760a5a02546.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+p{
+	color: #ecf0f1;
+}
+
+h1{
+	color: yellow;
+	/*border-color: red;
+	border-width: 2px;
+	border-style: dashed;*/
+
+	border:2px solid red;
+}

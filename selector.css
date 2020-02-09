@@ -1,0 +1,51 @@
+
+
+li{
+	border:2px solid red;
+}
+
+#special{
+	background: yellow;
+}
+
+.checked{
+	text-decoration: line-through;
+}
+
+a:hover {
+ border-bottom: 1px solid black;
+}
+
+div:not(#container){
+	background: blue;
+}
+
+#container::first-line{
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+li:nth-last-child(1){
+	color: red;
+}
+
+ul:nth-last-of-type(2) {
+   border: 1px solid black;
+}
+
+ul li:first-child{
+	text-decoration: underline;
+}
+
+ul li:last-child{
+	color: green;
+}
+
+li:only-of-type {
+    font-weight: bold;
+    background: pink;
+}
+
+li:first-of-type{
+	background: purple;
+}
